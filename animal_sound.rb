@@ -1,3 +1,6 @@
+# This is a comment from the future. You can't see me in the past!!!
+
+# Mwahahahahahahahaha
 puts "Which animal do you prefer?"
 animal = gets.chomp.downcase
 
