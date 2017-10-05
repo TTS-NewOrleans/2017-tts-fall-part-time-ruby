@@ -5,7 +5,7 @@ case animal
 when "cat"
   puts "Meow!"
 when "dog"
-  puts "Woof!"
+  puts "Woof! "
 when "horse"
   puts "Neigh!"
 when "snake"
